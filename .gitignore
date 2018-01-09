@@ -1,0 +1,9 @@
+*.test
+*.prof
+*.pprof
+*.out
+*.log
+*.mmdb
+
+/vendor/**
+/Gopkg.lock
